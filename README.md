@@ -103,4 +103,4 @@ MIT License. Fork, modify, share — Umbra is yours.
 ---
 
 > _“The power of AI shouldn’t come at the cost of privacy. Umbra is one step toward keeping it that way.”_
-# umbra-ai
+

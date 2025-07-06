@@ -74,7 +74,7 @@ Pull requests and ideas are welcome — especially if you're passionate about:
 - UI polish
 - Alt-model exploration (RWKV, Mixtral, etc.)
 
-> Check the [issues](https://github.com/umbra-ai/umbra/issues) page or open a discussion.
+> Check the [issues]([https://github.com/umbra-ai/](https://github.com/umbra-ai1/umbra-ai/issues) page or open a discussion.
 
 ---
 

@@ -38,7 +38,7 @@ Right now, Umbra supports 9B-class models via Ollama and other inference servers
 ---
 ## 🚀 Getting Started
 
-### 🔗 Try us  
+### 🔗 Try out the hosted version
 [https://umbraai.xyz](https://umbraai.xyz)
 
 > Public instance — usage is anonymous and ephemeral.

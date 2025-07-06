@@ -74,7 +74,7 @@ Pull requests and ideas are welcome — especially if you're passionate about:
 - UI polish
 - Alt-model exploration (RWKV, Mixtral, etc.)
 
-> Check the [issues]([https://github.com/umbra-ai/](https://github.com/umbra-ai1/umbra-ai/issues) page or open a discussion.
+> Check the [issues](https://github.com/umbra-ai1/umbra-ai/issues) page or open a discussion.
 
 ---
 
@@ -87,15 +87,7 @@ Umbra is free to use and self-funded. If you'd like to help us expand to bigger 
 XMR: 84cLNScC865NsxXvSDg25AhYXctKvPcegJnRAKKUw4igJ3RNfk87oovNxM9v9b8Y1A4JR89tVR9YF833dDFWr3VeF78pRHu
 
 Every bit goes toward hosting costs and open development.
-
 ---
-
-## 📜 License
-
-MIT License. Fork, modify, share — Umbra is yours.
-
----
-
 ## 🔗 Links
 
 - [Live Demo](https://umbraai.xyz)

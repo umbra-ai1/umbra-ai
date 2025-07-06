@@ -74,12 +74,9 @@ Umbra is a bootstrapped product. Your use, feedback, and donations help us:
 - Stay independent, lean, and non-exploitative
 
 BTC: bc1qy4dryep3tc09uvaekh6qkaslzxzlt2aqqgmwcs
-
 LTC: ltc1qn7memtpg88kepwuv3lm79k7dq2vvjkf7lv2sg7
-
-XMR: 84cLNScC865NsxXvSDg25AhYXctKvPcegJnRAKKUw4igJ3RNfk87oovNxM9v9b8Y1A4JR89tVR9YF833dDFWr3VeF78pRHu
-
 SOL: BjwBdsfadp2DKPMWeCgkbWyd2mFWnhber8s5JMPyZssf
+XMR: 84cLNScC865NsxXvSDg25AhYXctKvPcegJnRAKKUw4igJ3RNfk87oovNxM9v9b8Y1A4JR89tVR9YF833dDFWr3VeF78pRHu
 
 Every bit goes toward hosting costs and open development.
 

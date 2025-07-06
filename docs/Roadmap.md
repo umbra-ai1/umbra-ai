@@ -58,7 +58,6 @@ These models will be:
 We’re not just building a UI — we’re building an intelligent assistant stack that reflects **your values**, not Silicon Valley’s.
 
 ---
-
 ## 💸 Support & Sustainability
 
 Umbra is a bootstrapped product. Your use, feedback, and donations help us:
@@ -67,15 +66,14 @@ Umbra is a bootstrapped product. Your use, feedback, and donations help us:
 - Invest in fine-tuning and future model training
 - Stay independent, lean, and non-exploitative
 
-BTC: bc1qy4dryep3tc09uvaekh6qkaslzxzlt2aqqgmwcs    
-LTC: ltc1qn7memtpg88kepwuv3lm79k7dq2vvjkf7lv2sg7      
-XMR: 84cLNScC865NsxXvSDg25AhYXctKvPcegJnRAKKUw4igJ3RNfk87oovNxM9v9b8Y1A4JR89tVR9YF833dDFWr3VeF78pRHu      
-SOL: Er3CJggWSWNrpNzMrpBqsVUPAj5iJuYgvZGNQQWYasyj     
+BTC: bc1qy4dryep3tc09uvaekh6qkaslzxzlt2aqqgmwcs   
+LTC: ltc1qn7memtpg88kepwuv3lm79k7dq2vvjkf7lv2sg7    
+SOL: BjwBdsfadp2DKPMWeCgkbWyd2mFWnhber8s5JMPyZssf    
+XMR: 84cLNScC865NsxXvSDg25AhYXctKvPcegJnRAKKUw4igJ3RNfk87oovNxM9v9b8Y1A4JR89tVR9YF833dDFWr3VeF78pRHu
 
 Every bit goes toward hosting costs and open development.
 
 Commercial tiers and partner licenses are coming in 2026.
-
 ---
 
 > Umbra is for people who want real intelligence — without filters, tracking, or strings attached.

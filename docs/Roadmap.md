@@ -10,7 +10,7 @@ This roadmap outlines what’s live, what’s in development, and where we’re 
 
 > Core features in production
 
-- Minimal chat UI (streaming, markdown, local memory)
+- Minimal chat UI (streaming, markdown )
 - Hosting of 7B–9B open models via Ollama backend
 - Anonymous public access: [umbraai.xyz](https://umbraai.xyz)
 - No telemetry / tracking / log storage
@@ -19,14 +19,12 @@ This roadmap outlines what’s live, what’s in development, and where we’re 
 
 ---
 
-## ⚙️ Phase 2: Personal + Pro Self-Hosting
+## ⚙️ Phase 2: Personal + Pro & Self-Hosted UI
 
 > Tools for power users, enthusiasts, and developers
 
-- Self-hostable deployment (Docker + cloud scripts)
-- Switch between local and remote inference providers
-- Early auth system for private multi-user installs
-- Chat history (optional, encrypted, local-only)
+- Self-hostable UI deployment for self-hosting enthusiests (Docker + cloud scripts)
+- Switch between local and remote inference providers (Usefull for those who want to use thier own API keys)
 - UI refinements (themes, accessibility controls)
 - Optional “pro” tier with higher-tier inference access
 
@@ -52,7 +50,7 @@ Umbra’s long-term goal is to train and offer its own models — starting with 
 
 These models will be:
 
-- Fine-tuned for control, creativity, and minimal censorship
+- Fine-tuned for user control, creativity, and minimal censorship
 - Available through Umbra’s hosted platform or licensing
 - Aligned to privacy-first deployment — no tracking, no cloud lock-in
 - Built to differentiate the Umbra product from generic wrappers

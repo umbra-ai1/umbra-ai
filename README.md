@@ -37,18 +37,6 @@ Umbra is under active development. The goal is to make it easier to:
 Right now, Umbra supports 9B-class models via Ollama and other inference servers. Larger model hosting is a longer-term objective as we expand backend support and access to stronger hardware.
 
 ---
-
-## 🧠 Vision
-
-We believe in:
-- **Privacy by default** — No hidden data collection
-- **Open tools for open minds** — Umbra is not a walled garden
-- **User sovereignty** — You decide which model to run, and where
-
-Umbra is for developers, tinkerers, writers, and anyone who wants the power of modern LLMs **without corporate gatekeeping or surveillance**.
-
----
-
 ## 🚀 Getting Started
 
 ### 🔗 Try the hosted version  

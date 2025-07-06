@@ -45,14 +45,6 @@ Right now, Umbra supports 9B-class models via Ollama and other inference servers
 
 ---
 
-## 🛠️ Tech Stack
-
-- Frontend: React + Tailwind (minimal, responsive)
-- Backend: Node.js + Express
-- Model Bridge: Ollama / LM Studio / local inference endpoints
-
----
-
 ## 💬 Contributing
 
 Pull requests and ideas are welcome — especially if you're passionate about:

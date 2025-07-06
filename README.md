@@ -5,7 +5,6 @@
 Umbra is a lightweight, no-tracking wrapper that lets you interact with open AI models like **Mistral**, **LLaMA**, **OpenChat**, and others — through a clean, minimal UI. Built with a focus on **autonomy**, **simplicity**, and **user freedom**.
 
 
-
 ---
 
 ## 🌟 Features
@@ -39,7 +38,7 @@ Right now, Umbra supports 9B-class models via Ollama and other inference servers
 ---
 ## 🚀 Getting Started
 
-### 🔗 Try the hosted version  
+### 🔗 Try us  
 [https://umbraai.xyz](https://umbraai.xyz)
 
 > Public instance — usage is anonymous and ephemeral.

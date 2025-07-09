@@ -81,7 +81,7 @@ Commercial tiers and partner licenses are coming in 2026.
 
 📍 See where Umbra is headed → [Roadmap.md](./docs/Roadmap.md)
 
-[Roadmap.md](./docs/donations.md)
+[donations.md](./docs/donations.md)
 
 ---
 

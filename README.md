@@ -1,19 +1,34 @@
 # Umbra AI
 
-> 🧠 A clean, privacy-respecting interface for open-source language models.
+> 🧠 A privacy-first AI platform for running and scaling open models — without compromise.
 
-Umbra is a lightweight, no-tracking wrapper that lets you interact with open AI models like **Mistral**, **LLaMA**, **OpenChat**, and others — through a clean, minimal UI. Built with a focus on **autonomy**, **simplicity**, and **user freedom**.
+**Umbra** is a full-stack platform designed to power open-source language models like **Mistral**, **LLaMA**, and **OpenChat** — with a focus on privacy, autonomy, and performance.
 
+Built for developers, researchers, and teams who want to deploy advanced AI without handing over control to Big Tech.
 
 ---
 
-## 🌟 Features
+## 🌐 Core Platform Features
 
-- ✅ **Supports open models** — Mistral, LLaMA, OpenChat, and others (via Ollama, LM Studio, etc.)
-- 🧩 **Plug-and-play backends** — Swap between local or remote inference
-- 🧼 **Minimalist frontend** — Focused UX, built for conversation not distraction
-- 🛡️ **Zero tracking** — No telemetry, no user data collection, no ads
-- 💬 **Experimental fine-tune support** — Goal: enable hosting & interaction with 65B+ and custom-trained models
+- ✅ **Model-agnostic architecture** — Seamless support for open models via **Ollama**, **LM Studio**, or custom runtimes
+- 🧩 **Pluggable inference layer** — Run models locally or route to remote backends with zero lock-in
+- 🛡️ **Privacy by default** — No tracking, no user data harvesting, no hidden analytics
+- ⚡ **Minimal UI included** — Lightweight interface for quick chat/debug, but fully decoupled
+- 🧠 **Ready for scale** — Built with a roadmap to support 65B+ models, distributed inference, and fine-tuned deployments
+
+---
+
+## 🛠️ Built for:
+
+- 🔒 Teams that need private, on-prem AI
+- 🧪 Builders exploring fine-tuning and custom model workflows
+- ⚙️ Devs creating tools, apps, or agents powered by LLMs — without surrendering control
+
+---
+
+**Umbra is the backend infrastructure for independent AI.**
+
+> Want to run serious models without giving your data away? Umbra gives you the tools to do it — your way.
 
 ---
 
@@ -25,47 +40,36 @@ This is a big step, but one that aligns with our philosophy: users should not on
 
 ---
 
-## 🚧 Project Status
+## 🚀 Try Umbra Now
 
-Umbra is under active development. The goal is to make it easier to:
+A live public instance is available at:  
+🔗 [https://umbraai.xyz](https://umbraai.xyz)
 
-- Run your **own model** (without needing a gpu cluster)
-- Chat with **large models** (70B+, fine-tuned) *without needing your own GPU cluster*
-- Host AI experiences that are **fully in your control**
-
-Right now, Umbra supports 9B-class models via Ollama and other inference servers. Larger model hosting is a longer-term objective as we expand backend support and access to stronger hardware.
-
----
-## 🚀 Getting Started
-
-### 🔗 Try out the hosted version
-[https://umbraai.xyz](https://umbraai.xyz)
-
-> Public instance — usage is anonymous and ephemeral.
----
-# 💸 Support Umbra
-
-**Umbra** is a privacy-first AI interface and assistant stack — built without Big Tech, surveillance, or compromise.
-
-We’re fully independent, community-supported, and committed to building usable, values-aligned AI tools for power users, self-hosters, and anyone who wants control over their own digital intelligence.
-
-Your support helps us stay lean, ethical, and fast-moving — without ads, trackers, or lock-in.
+> Anonymous, ephemeral, and hosted with zero tracking.
 
 ---
 
-## ✅ Why Support?
+# 💸 Help Keep Umbra Independent
 
-- 🧠 Scale GPU infrastructure (host larger models: 30B–65B+)
-- 🛠️ Fund fine-tuning and future Umbra-native models
-- 🧪 Keep experiments open and transparent
-- 🛡️ Remain independent from corporate influence
+Umbra is built **outside of Big Tech** — with no ads, no telemetry, and no investor strings attached.
+
+We’re a fully independent, values-aligned platform aiming to make private AI accessible to everyone. Your support helps us scale responsibly, stay transparent, and keep the platform moving fast.
+
+---
+
+## ✅ Why Donate?
+
+- 🧠 Fund GPU capacity (for 30B–65B+ models)
+- 🛠️ Support training of future Umbra-native models
+- 🧪 Sustain open, transparent experiments
+- 🛡️ Keep Umbra independent from corporate agendas
 - 🤝 Prioritize user freedom, privacy, and control
 
 ---
 
 ## 🔐 Donate with Crypto
 
-We accept direct donations in:
+We accept:
 
 - **Bitcoin (BTC):**  
   `bc1qy4dryep3tc09uvaekh6qkaslzxzlt2aqqgmwcs`
@@ -79,19 +83,28 @@ We accept direct donations in:
 - **Monero (XMR):**  
   `84cLNScC865NsxXvSDg25AhYXctKvPcegJnRAKKUw4igJ3RNfk87oovNxM9v9b8Y1A4JR89tVR9YF833dDFWr3VeF78pRHu`
 
-> ❤️ Every bit helps — even small donations go directly toward infrastructure, development, and maintaining the hosted platform.
+> ❤️ Every bit helps — even small donations go directly toward infrastructure and development.
 
 ---
 
-## 🌱 Other Ways to Support
+## 🌱 Other Ways to Contribute
 
 - ⭐ Star this repo
-- 🧵 Share [umbraai.xyz](https://umbraai.xyz) with like-minded users
-- 🐛 Submit issues, feedback, or feature requests
-- 🔧 Contribute (coming soon: Dockerized backend + theme support)
-- 🗣️ Spread the word in privacy, AI, and open-source communities
+- 🧵 Share [umbraai.xyz](https://umbraai.xyz) with privacy-first or AI-curious friends
+- 🐛 Submit feedback or open feature requests
+- 🔧 Contribute code (coming soon: backend & Docker setup)
+- 🗣️ Share Umbra in forums, socials, or communities
+---
 
+## 🚧 Project Status
 
+Umbra is under active development. The goal is to make it easier to:
+
+- Run your **own model** (without needing a gpu cluster)
+- Chat with **large models** (70B+, fine-tuned) *without needing your own GPU cluster*
+- Host AI experiences that are **fully in your control**
+
+Right now, Umbra supports 9B-class models via Ollama and other inference servers. Larger model hosting is a longer-term objective as we expand backend support and access to stronger hardware.
 
 ---
 

@@ -55,7 +55,7 @@ We accept direct donations in:
 - 🚀 **Phase 3:** Access to 30B–65B models for donors
 - 🧠 **Phase 4:** Umbra’s own fine-tuned models
 
-Read more in [`docs/roadmap.md`](./roadmap.md)
+Read more in [`docs/roadmap.md`](./Roadmap.md)
 
 ---
 

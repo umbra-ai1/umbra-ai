@@ -81,6 +81,8 @@ Commercial tiers and partner licenses are coming in 2026.
 
 📍 See where Umbra is headed → [Roadmap.md](./docs/Roadmap.md)
 
+[Roadmap.md](./docs/donations.md)
+
 ---
 
 > _“The power of AI shouldn’t come at the cost of privacy. Umbra is one step toward keeping it that way.”_

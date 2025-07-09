@@ -42,6 +42,56 @@ Right now, Umbra supports 9B-class models via Ollama and other inference servers
 [https://umbraai.xyz](https://umbraai.xyz)
 
 > Public instance — usage is anonymous and ephemeral.
+---
+# 💸 Support Umbra
+
+**Umbra** is a privacy-first AI interface and assistant stack — built without Big Tech, surveillance, or compromise.
+
+We’re fully independent, community-supported, and committed to building usable, values-aligned AI tools for power users, self-hosters, and anyone who wants control over their own digital intelligence.
+
+Your support helps us stay lean, ethical, and fast-moving — without ads, trackers, or lock-in.
+
+---
+
+## ✅ Why Support?
+
+- 🧠 Scale GPU infrastructure (host larger models: 30B–65B+)
+- 🛠️ Fund fine-tuning and future Umbra-native models
+- 🧪 Keep experiments open and transparent
+- 🛡️ Remain independent from corporate influence
+- 🤝 Prioritize user freedom, privacy, and control
+
+---
+
+## 🔐 Donate with Crypto
+
+We accept direct donations in:
+
+- **Bitcoin (BTC):**  
+  `bc1qy4dryep3tc09uvaekh6qkaslzxzlt2aqqgmwcs`
+
+- **Litecoin (LTC):**  
+  `ltc1qn7memtpg88kepwuv3lm79k7dq2vvjkf7lv2sg7`
+
+- **Solana (SOL):**  
+  `Er3CJggWSWNrpNzMrpBqsVUPAj5iJuYgvZGNQQWYasyj`
+
+- **Monero (XMR):**  
+  `84cLNScC865NsxXvSDg25AhYXctKvPcegJnRAKKUw4igJ3RNfk87oovNxM9v9b8Y1A4JR89tVR9YF833dDFWr3VeF78pRHu`
+
+> ❤️ Every bit helps — even small donations go directly toward infrastructure, development, and maintaining the hosted platform.
+
+---
+
+## 🌱 Other Ways to Support
+
+- ⭐ Star this repo
+- 🧵 Share [umbraai.xyz](https://umbraai.xyz) with like-minded users
+- 🐛 Submit issues, feedback, or feature requests
+- 🔧 Contribute (coming soon: Dockerized backend + theme support)
+- 🗣️ Spread the word in privacy, AI, and open-source communities
+
+
 
 ---
 
@@ -55,24 +105,7 @@ Pull requests and ideas are welcome — especially if you're passionate about:
 
 > Check the [issues](https://github.com/umbra-ai1/umbra-ai/issues) page or open a discussion.
 
----
-## 💸 Support & Sustainability
 
-Umbra is a bootstrapped product. Your use, feedback, and donations help us:
-
-- Scale infrastructure to support larger models
-- Invest in fine-tuning and future model training
-- Stay independent, lean, and non-exploitative
-
-BTC: bc1qy4dryep3tc09uvaekh6qkaslzxzlt2aqqgmwcs   
-LTC: ltc1qn7memtpg88kepwuv3lm79k7dq2vvjkf7lv2sg7    
-SOL: Er3CJggWSWNrpNzMrpBqsVUPAj5iJuYgvZGNQQWYasyj         
-XMR: 84cLNScC865NsxXvSDg25AhYXctKvPcegJnRAKKUw4igJ3RNfk87oovNxM9v9b8Y1A4JR89tVR9YF833dDFWr3VeF78pRHu
-
-Every bit goes toward hosting costs and open development.
-
-Commercial tiers and partner licenses are coming in 2026.
----
 ## 🔗 Links
 
 - [Live Demo](https://umbraai.xyz)

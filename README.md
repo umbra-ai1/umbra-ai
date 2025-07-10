@@ -117,13 +117,13 @@ Pull requests and ideas are welcome — especially if you're passionate about:
 > Check the [issues](https://github.com/umbra-ai1/umbra-ai/issues) page or open a discussion.
 
 
-## 🔗 Links
+## Links
 
+-**Reddit**: [r/umbraai] (ttps://www.reddit.com/r/umbraai/)
 - [Live Demo](https://umbraai.xyz)
-
 ---
 
-📍 See where Umbra is headed → [Roadmap.md](./docs/Roadmap.md)
+ See where Umbra is headed → [Roadmap.md](./docs/Roadmap.md)
 
 [donations.md](./docs/donations.md)
 

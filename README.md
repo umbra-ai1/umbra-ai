@@ -119,7 +119,7 @@ Pull requests and ideas are welcome — especially if you're passionate about:
 
 ## Links
 
--**Reddit**: [r/umbraai] (ttps://www.reddit.com/r/umbraai/)
+- [r/umbraai](https://www.reddit.com/r/umbraai/)
 - [Live Demo](https://umbraai.xyz)
 ---
 

@@ -14,6 +14,8 @@ Built for developers, researchers, and teams who want to deploy advanced AI with
 -  **Privacy-first hosted inference** — Umbra runs high-quality open models with zero tracking or data retention
 -  **Built for scale** — Roadmap includes 65B+ model support, distributed inference, and fine-tuned deployments
 
+> Note: While the current UI is based on OpenWebUI, chats will not be saved or retained in our deployment.
+
 ---
 
 ## Built for:

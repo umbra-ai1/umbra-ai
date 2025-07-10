@@ -4,7 +4,7 @@ This roadmap outlines what’s live, what’s in development, and where we’re 
 
 ---
 
-## ✅ Phase 1: Private Minimal MVP (Live)
+##  Phase 1: Private Minimal MVP (Live)
 
 > Core platform features currently in production
 
@@ -17,7 +17,7 @@ This roadmap outlines what’s live, what’s in development, and where we’re 
 
 ---
 
-## ⚙️ Phase 2: Power & Pro Tiers
+##  Phase 2: Power & Pro Tiers
 
 > Enhancements for advanced users and commercial customers
 
@@ -29,7 +29,7 @@ This roadmap outlines what’s live, what’s in development, and where we’re 
 
 ---
 
-## 🚀 Phase 3: Hosted Expansion & Scaling
+##  Phase 3: Hosted Expansion & Scaling
 
 > Growing hosted infrastructure and model capacity
 
@@ -41,7 +41,7 @@ This roadmap outlines what’s live, what’s in development, and where we’re 
 
 ---
 
-## 🧠 Phase 4: Umbra-Native Models & IP
+##  Phase 4: Umbra-Native Models & IP
 
 > Strategic vision: proprietary models aligned with user autonomy
 

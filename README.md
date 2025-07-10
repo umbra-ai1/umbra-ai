@@ -2,7 +2,7 @@
 
 >  A privacy-first AI platform for running and scaling open models — without compromise.
 
-**Umbra** is a full-stack platform designed to power open-source language models like **Mistral**, **LLaMA**, and **OpenChat** — with a focus on privacy, autonomy, and performance.
+**Umbra** is a platform designed to power open-source language models like **Mistral**, **LLaMA**, and **OpenChat** — with a focus on privacy, autonomy, and performance.
 
 Built for developers, researchers, and teams who want to deploy advanced AI without handing over control to Big Tech.
 

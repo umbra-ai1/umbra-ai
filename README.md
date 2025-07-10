@@ -45,7 +45,7 @@ This is a big step, but one that aligns with our philosophy: users should not on
 A live public instance is available at:  
 🔗 [https://umbraai.xyz](https://umbraai.xyz)
 
-> Anonymous, ephemeral, and hosted with zero tracking.
+> Anonymous, ephemeral, and hosted with zero tracking. 
 
 ---
 
@@ -106,6 +106,7 @@ Umbra is under active development. The goal is to make it easier to:
 
 Right now, Umbra supports 9B-class models via Ollama and other inference servers. Larger model hosting is a longer-term objective as we expand backend support and access to stronger hardware.
 
+- A native Umbra UI (with zero-retention behavior by design) is under development.
 ---
 
 ##  Contributing

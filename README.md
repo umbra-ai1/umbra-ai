@@ -38,7 +38,7 @@ This is a big step, but one that aligns with our philosophy: users should not on
 
 ---
 
-## 🚀 Try Umbra Now
+##  Try Umbra Now
 
 A live public instance is available at:  
 🔗 [https://umbraai.xyz](https://umbraai.xyz)

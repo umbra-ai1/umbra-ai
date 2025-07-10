@@ -1,80 +1,61 @@
 # 📍 Umbra Product Roadmap
 
-Umbra is a privacy-first AI interface and backend platform designed to let users interact with open models — without compromise. While it leverages open technologies, Umbra itself is built as a product, not a community-maintained open-source project.
-
 This roadmap outlines what’s live, what’s in development, and where we’re headed next.
 
 ---
 
 ## ✅ Phase 1: Private Minimal MVP (Live)
 
-> Core features in production
+> Core platform features currently in production
 
-- Minimal chat UI (streaming, markdown )
-- Hosting of 7B–9B open models via Ollama backend
-- Anonymous public access: [umbraai.xyz](https://umbraai.xyz)
-- No telemetry / tracking / log storage
-- Model switching support
+- Minimal chat UI (streaming, markdown support)
+- Hosted inference for 7B–9B parameter open models via vLLM backend
+- Anonymous, public access at [umbraai.xyz](https://umbraai.xyz)
+- Strict privacy: no telemetry, no tracking, no log storage
+- Basic model switching support
 - Persona presets (customizable system prompts)
 
 ---
 
-## ⚙️ Phase 2: Personal + Pro & Self-Hosted UI
+## ⚙️ Phase 2: Power & Pro Tiers
 
-> Tools for power users, enthusiasts, and developers
+> Enhancements for advanced users and commercial customers
 
-- Self-hostable UI deployment for self-hosting enthusiests (Docker + cloud scripts)
-- Switch between local and remote inference providers (Usefull for those who want to use thier own API keys)
-- UI refinements (themes, accessibility controls)
-- Optional “pro” tier with higher-tier inference access
-
----
-
-## 🚀 Phase 3: Hosted Expansion (Larger Models)
-
-> Adding paid tiers and stronger hosted models
-
-- Hosted access to 30B–65B+ models (subject to availability)
-- Curated fine-tunes (code, logic, etc.)
-- Shared community instance with boosted performance
-- Prioritized load for donors or subscribers
-- Dedicated GPU node access (coming soon)
+- Refined UI with improved themes and accessibility controls
+- Optional “Pro” tier offering priority access and higher-performance inference
+- Expanded hosted model selection including curated fine-tunes
+- User account management and usage dashboards
+- API access for integrating Umbra platform capabilities into apps and workflows
 
 ---
 
-## 🧠 Phase 4: Umbra-Owned Model IP
+## 🚀 Phase 3: Hosted Expansion & Scaling
 
-> Strategic direction: proprietary models aligned with user freedom
+> Growing hosted infrastructure and model capacity
 
-Umbra’s long-term goal is to train and offer its own models — starting with fine-tunes on permissive bases, and eventually exploring original pretraining.
+- Launch of hosted access to 30B–65B+ parameter models (availability dependent on hardware)
+- Scalable distributed inference to improve latency and throughput
+- Dedicated GPU node options for high-demand customers
+- Load prioritization for subscribers and donors
+- Continued enhancements to privacy and security at scale
+
+---
+
+## 🧠 Phase 4: Umbra-Native Models & IP
+
+> Strategic vision: proprietary models aligned with user autonomy
+
+Umbra’s long-term mission includes training and releasing its own models — starting with fine-tuned variants on permissive open bases, and eventually original pretraining.
 
 These models will be:
 
-- Fine-tuned for user control, creativity, and minimal censorship
-- Available through Umbra’s hosted platform or licensing
-- Aligned to privacy-first deployment — no tracking, no cloud lock-in
-- Built to differentiate the Umbra product from generic wrappers
+- Optimized for user control, creativity, and minimal censorship
+- Exclusively available through Umbra’s hosted platform and licensing partners
+- Designed for privacy-first deployment — no tracking, no cloud lock-in
+- A key differentiator positioning Umbra beyond generic open-source wrappers
 
-We’re not just building a UI — we’re building an intelligent assistant stack that reflects **your values**, not Silicon Valley’s.
+We’re building more than an interface —  
+Umbra is a full AI platform centered on **your freedom and values**, not corporate agendas.
 
----
-## 💸 Support & Sustainability
-
-Umbra is a bootstrapped product. Your use, feedback, and donations help us:
-
-- Scale infrastructure to support larger models
-- Invest in fine-tuning and future model training
-- Stay independent, lean, and non-exploitative
-
-BTC: bc1qy4dryep3tc09uvaekh6qkaslzxzlt2aqqgmwcs   
-LTC: ltc1qn7memtpg88kepwuv3lm79k7dq2vvjkf7lv2sg7    
-SOL: Er3CJggWSWNrpNzMrpBqsVUPAj5iJuYgvZGNQQWYasyj         
-XMR: 84cLNScC865NsxXvSDg25AhYXctKvPcegJnRAKKUw4igJ3RNfk87oovNxM9v9b8Y1A4JR89tVR9YF833dDFWr3VeF78pRHu
-
-Every bit goes toward hosting costs and open development.
-
-Commercial tiers and partner licenses are coming in 2026.
----
-
-> Umbra is for people who want real intelligence — without filters, tracking, or strings attached.
-
+> For those who want real intelligence —  
+> without filters, tracking, or strings attached.
